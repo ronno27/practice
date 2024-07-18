@@ -24,7 +24,7 @@ import java.util.List;
  */
 
 public class ColiseumMain {
-    private static final Path PATH = Path.of("group_9/pronyaeva.sofya/lab4/src/main/resources/fights.txt");
+    private static final Path PATH = Path.of("module2/src/main/resources/fights.txt");
 
     public static void main(String[] args) {
         FileSupplier fileSupplier = new FileSupplier();
